@@ -1,0 +1,6 @@
+# Siril provides sirilpy and installs NumPy in its managed Python environment.
+# Remaining dependencies are checked by sirilpy.ensure_installed() at launch.
+numpy
+Pillow
+PyQt6
+astropy
