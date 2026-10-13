@@ -1,0 +1,1 @@
+Screenshots of SGA_AstroAnnotator
